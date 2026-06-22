@@ -17,8 +17,7 @@
 
 
 > 🎬 **Watch the 10-Second Showcase Video:**
-> View Preview video in Preview folder.
-<video src="preview/video-pre.mp4" width="100%" controls></video>
+![Pre View Video](/preview/video-pre.gif)
 
 ---
 
