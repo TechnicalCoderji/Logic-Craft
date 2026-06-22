@@ -13,10 +13,11 @@
 ### Main Menu & Canvas Preview
 | Main Menu Layout | Live Logic Simulation |
 | :---: | :---: |
-| <img src="image_725e62.jpg" width="400" alt="Logic-Craft Title Screen"/> | <img src="image_726206.png" width="400" alt="Logic Simulation Sandbox"/> |
+| <img src="preview/preview.png" width="400" alt="Logic-Craft Title Screen"/> | <img src="preview/canvas-pre.png" width="400" alt="Logic Simulation Sandbox"/> |
 
 
-> 🎬 **Watch the 10-Second Showcase Video:** Look at `demo.mp4` (or your uploaded video link here) inside the repository root to see the real-time simulation updates, wire placement, and canvas scaling in action!
+> 🎬 **Watch the 10-Second Showcase Video:**
+<video src="preview/video-pre.mp4" width="100%" controls></video>
 
 ---
 
@@ -62,6 +63,7 @@ This project follows a strict object-oriented, clean, modular programming bluepr
 ├── 📂 Assets/           # System UI elements and customized image assets
 ├── 📂 craft/            # Serialized circuit saves utilizing binary (.craft) layout
 ├── 📂 font/             # Embedded TTF font files for modular multi-resolution UI text
+├── 📂 preview/          # Preview images and video for README.md
 │
 ├── 📄 main.py           # Main framework bootstrapping loop and centralized state controller
 ├── 📄 home_page.py      # Landing hub screen context handling and initial configurations
@@ -80,7 +82,7 @@ Ensure you have Python 3.8 or higher installed on your operating system.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/logic-craft.git](https://github.com/YOUR_GITHUB_USERNAME/logic-craft.git)
+git clone https://github.com/TechnicalCoderji/Logic-Craft.git
 cd logic-craft
 ```
 
@@ -108,7 +110,7 @@ python main.py
 
 Contributions, feedback, and optimization pull requests are welcome! If you find a bug, logic error, or wire rendering issue, feel free to submit it through the repo:
 
-1. **Report Bugs:** Open a structured report via the [GitHub Issues](https://github.com/YOUR_GITHUB_USERNAME/logic-craft/issues) section.
+1. **Report Bugs:** Open a structured report via the [GitHub Issues](https://github.com/TechnicalCoderji/Logic-Craft/issues) section.
 2. **Submit Adjustments:** Fork the repository, apply your changes inside an isolated patch branch, and submit a formal Pull Request.
 
 ---
