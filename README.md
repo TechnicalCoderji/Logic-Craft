@@ -107,6 +107,15 @@ python main.py
 
 ---
 
+### 💡 Project Origins & Evolution
+
+This project started as a simple prototype inside my earlier repository:  
+🔗 **Original Prototype:** [Logic Gate (GUI Project)](https://github.com/TechnicalCoderji/GUI-Project/tree/4361ce4eddd16d2c7e5c573aff4e7fdba47cf734/Logic%20Gate)
+
+What began as a basic graphical representation of single logic gates evolved into **Logic-Craft**—a full-featured, scalable 2D simulation canvas with live wire routing, multi-gate logic propagation, custom workspace saves, and extended canvas settings.
+
+---
+
 ## 🤝 Contributing & Support
 
 Contributions, feedback, and optimization pull requests are welcome! If you find a bug, logic error, or wire rendering issue, feel free to submit it through the repo:
